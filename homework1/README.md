@@ -9,7 +9,7 @@
 
 Также сохранил в формате изображения. Посмотреть [поближе](./es_homework1.png)  
 ![image](./es_homework1.png)
-Еще [ссылку](https://excalidraw.com/#json=-OABizp1wT61ewWVyEeLO,dz2jIfy03i3UjJ6V0mWHNA) вот дам на всякий.
+Еще [ссылку](https://excalidraw.com/#json=-OABizp1wT61ewWVyEeLO,dz2jIfy03i3UjJ6V0mWHNA) на excalidraw дам на всякий.
 
 Оказалось, что делать ES достаточно сложно, но и работа с коммуникациями оказалась не легче)))))))
 Понимания, как система работает на уровне коммуникаций, не прибавилось даже после составления схемы,
