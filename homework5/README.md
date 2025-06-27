@@ -4,7 +4,7 @@
 ![image](./assets/problems.jpg)
 
 # Коммуникации в системе
-![image](./assets/comm.pdf)
+![image](./assets/comm.png)
 
 ## Нулевая домашка. Срез до курса
 
